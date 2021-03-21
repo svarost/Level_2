@@ -38,5 +38,7 @@ public class ArrayConverter {
             }
         }
         System.out.println("Сумма элементов массива равна: " + sum);
+
+
     }
 }
